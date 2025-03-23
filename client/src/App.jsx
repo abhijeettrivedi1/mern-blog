@@ -14,7 +14,7 @@ import UpdatePost from './pages/UpdatePost';
 import PostPage from './pages/PostPage';
 import ScrollToTop from './components/ScrollToTop';
 import Search from './pages/Search';
-import "./index.css"
+import "./main.jsx"
 export default function App() {
   return (
     <BrowserRouter>
